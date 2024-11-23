@@ -1,6 +1,6 @@
 # awall-codes.github.io
 
-Hello & welcome to my personal website! My name is Anna and I am a third year data science student at the University of Oregon. 
+Welcome to my personal website! My name is Anna and I am a third year data science student at the University of Oregon. 
 
 ## Technical Skills
 - **Programming Languages:** Python, C
