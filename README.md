@@ -1,6 +1,6 @@
 # awall-codes.github.io
 
-Welcome to my GitHub! I'm Anna Wallin, a fourth-year Data Science student with a domain focus in Sociology. I currently conducting a Python-based undergraduate thesis analyzing how different gerrymandering metrics are affected when district lines are drawn to protect communities of interest. In my Sociological Research Methods course I am also coding in R to evaluate the effectiveness of independent redistricting commissions on electoral redistricting outcomes. 
+Welcome to my GitHub! I'm Anna Wallin, a fourth-year Data Science student with a domain focus in Sociology. I currently conducting a Python-based undergraduate thesis analyzing how different gerrymandering metrics are affected when district lines are drawn to protect communities of interest.
 
 This site showcases my projects, code, and repositories and the site is actively being updated as I complete new work.
 
