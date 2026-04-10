@@ -1,20 +1,23 @@
 # awall-codes.github.io
 
-Welcome to my personal website! My name is Anna and I am a fourth year data science student at the University of Oregon. 
+Welcome to my GitHub! I'm Anna Wallin, a fourth-year Data Science student with a domain focus in Sociology. I currently conducting a Python-based undergraduate thesis analyzing how different gerrymandering metrics are affected when district lines are drawn to protect communities of interest. In my Sociological Research Methods course I am also coding in R to evaluate the effectiveness of independent redistricting commissions on electoral redistricting outcomes. 
+
+This site showcases my projects, code, and repositories and the site is actively being updated as I complete new work.
 
 ## Technical Skills
-- **Programming Languages:** Python, C
-- **Frameworks & Tools:** Git, VS Code, Jupyter Notebook, Jupyter Lab
+- **Languages:** Python, C, R
+- **Tools & Environments:** Git, VS Code, Jupyter Notebook, Jupyter Lab
 
 ## Interests
-- I have a passion for coding and using data to drive change.
-- I have a particular interest in machine learning and deep learning as a way to understand politics and social research.
-
+- Applying data science and machine learning to political and sociological research
+- Using computational methods to drive evidence-based insights on social issues
 
 ## Projects
-  
-  1. Analyzing a student performance data set: predicting final exam scores based on different input variables, classifying students into performance categories, identifying factors that contribute to high or low academic performance.
-  2. Analyzing a data set of political donations from different sports team's owners: currently performing exploratory data analysis, but will eventually used unsupervised learning techinques to make real world predictions with the   data.
-  3. Assessing how promptly a crisis vehicle arrives based on the call's priority and the availability of the van.
+**Crisis Response Team and Arrival Time**
+Built for DSCI41, I conducted this real-world project to investigate disparities in crisis response arrival times by call priority level in the Eugene/Springfield, Oregon, area. 
 
+**Student Academic Performance Analysis**
+Built for CS404, my classmate and I worked off a student performance dataset from Kaggle, forecasting final exam scores from input variables, categorizing students by performance tier, and identifying key drivers of academic outcomes.
 
+**Political Donation Patterns in Professional Sports**
+Completed for DSCI311, my final project invovled data analysis of political donations made by professional sports team owners. 
