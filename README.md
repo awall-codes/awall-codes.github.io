@@ -13,8 +13,11 @@ This site showcases my projects, code, and repositories and the site is actively
 - Using computational methods to drive evidence-based insights on social issues
 
 ## Projects
+**Redistricting Dashboard**
+Created for DSCI410 (Visualization for Data Science) I made an interactive redistricting dashboard in Plotly Dash (Jupyter Notebook) synthesizing information about different re-districting committees and proposed federal and state legislation, and analyzing the effectiveness of independent redistricting commissions across U.S. states. 
+
 **Crisis Response Team and Arrival Time**
-Built for DSCI41, I conducted this real-world project to investigate disparities in crisis response arrival times by call priority level in the Eugene/Springfield, Oregon, area. 
+Built for DSCI410 (Data Science for Social Justice), I conducted this real-world project to investigate disparities in crisis response arrival times by call priority level in the Eugene/Springfield, Oregon, area. 
 
 **Student Academic Performance Analysis**
 Built for CS404, my classmate and I worked off a student performance dataset from Kaggle, forecasting final exam scores from input variables, categorizing students by performance tier, and identifying key drivers of academic outcomes.
